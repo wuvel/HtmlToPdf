@@ -1,3 +1,4 @@
+** Ref: https://nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft
 - Membuat HTML embed tag untuk read file. Dan expose ke publik.
   ```
   <!DOCTYPE html>
