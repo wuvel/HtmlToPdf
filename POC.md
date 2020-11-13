@@ -3,7 +3,7 @@
   <!DOCTYPE html>
   <html>
   <head>
-  <title>Captain</title>
+  <title></title>
   </head>
   <body>
   <a rel='attachment' href='file:///flag'>
